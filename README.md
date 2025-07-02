@@ -39,3 +39,12 @@ To transition into a cybersecurity analyst role by building hands-on skills in t
 - Understanding file permissions  
 **What I learned:**  
 > “I learned how to navigate a Linux environment, manage file structures, and adjust permissions — foundational skills for understanding servers and systems used in real-world SOC environments.”
+
+---
+
+## 🧠 Badges Earned
+
+- **Networking Nerd** – [View Badge](https://tryhackme.com/p/aneezat13?show_achievement_badge=network-fundamentals)
+- **Webbed** – [View Badge](https://tryhackme.com/p/aneezat13?show_achievement_badge=web-fund)
+- **World Wide Web** – [View Badge](https://tryhackme.com/p/aneezat13?show_achievement_badge=world-wide-web)
+- **cat linux.txt (Terminaled)** – [View Badge](https://tryhackme.com/p/aneezat13?show_achievement_badge=terminaled)
