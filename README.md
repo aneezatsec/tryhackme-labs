@@ -28,3 +28,14 @@ To transition into a cybersecurity analyst role by building hands-on skills in t
 - TryHackMe Pre-Security Path  
 - SOC Level 1 Path  
 - Security+ Self Study (No exam planned yet)
+
+---
+
+### 2. Linux Fundamentals 1  
+**Tools used:** Linux Terminal (THM), `ls`, `cd`, `cat`, `chmod`  
+**Skills gained:**  
+- Navigating directories using terminal  
+- Viewing & editing file contents  
+- Understanding file permissions  
+**What I learned:**  
+> “I learned how to navigate a Linux environment, manage file structures, and adjust permissions — foundational skills for understanding servers and systems used in real-world SOC environments.”
