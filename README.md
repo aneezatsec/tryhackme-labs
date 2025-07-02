@@ -27,7 +27,7 @@ To transition into a cybersecurity analyst role by building hands-on skills in t
 ## 🚀 In Progress
 - TryHackMe Pre-Security Path  
 - SOC Level 1 Path  
-- Security+ Self Study (No exam planned yet)
+- Security+ Self Study
 
 ---
 
