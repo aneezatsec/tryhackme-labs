@@ -50,3 +50,13 @@ Each lab helped me build practical skills in web security, vulnerability analysi
 - Gaining confidence with offensive security tools  
 **What I learned:**  
 > “This badge marks consistent progress in mastering the basics. It reminds me that every small win — every room completed — is sharpening my skill set and moving me closer to being job-ready.”
+
+---
+
+### 📜 Cyber Security 101 Certificate of Completion  
+**Awarded By:** [TryHackMe](https://tryhackme.com)  
+**Issued To:** Aneezat Bello  
+**Date Earned:** July 2025  
+**Link to Certificate:** [View Certificate](https://tryhackme.com/p/aneezat13)
+
+> Finishing this path was a turning point. It took me beyond beginner topics and into real-world cybersecurity skills — like vulnerability scanning, exploitation, web attacks, and blue team defense strategies. I feel more prepared and excited than ever to step into a junior cybersecurity role.
