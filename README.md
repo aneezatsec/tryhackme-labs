@@ -74,7 +74,6 @@ To transition into a cybersecurity analyst role by building hands-on skills in t
 > “As someone new to Linux, this lab helped me get comfortable using the command line. These are core skills for cybersecurity roles, especially for monitoring and managing Linux servers and systems in real-world environments.”
 ---
 
-## 🚀 In Progress
-- TryHackMe Pre-Security Path  
+## 🚀 In Progress  
 - SOC Level 1 Path  
 - Security+ Self Study
