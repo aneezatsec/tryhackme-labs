@@ -10,6 +10,15 @@ To transition into a cybersecurity analyst role by building hands-on skills in t
 - **Networking Nerd** – [View Badge](https://tryhackme.com/p/aneezat13?show_achievement_badge=network-fundamentals)
 
 ---
+### 📊 Skills Matrix Overview (TryHackMe)
+As of July 2025, my TryHackMe Skills Matrix reflects **Entry-Level competency** in:
+
+- Foundational Cybersecurity  
+- Security Analyst (SOC)  
+- Penetration Testing  
+- Security Engineering  
+
+These are being developed through lab-based learning via Pre-Security, Cyber Security 101, and SOC Level 1 paths.
 
 ## 🧪 Labs Completed
 
