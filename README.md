@@ -5,11 +5,13 @@ To transition into a cybersecurity analyst role by building hands-on skills in t
 
 ---
 
-## 🧠 Badges Earned
+## 🧠 Badges Earned + Certificate
 
 - **Networking Nerd** – [View Badge](https://tryhackme.com/p/aneezat13?show_achievement_badge=network-fundamentals)
+- **Cyber Security 101** - (https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PA1IEJGL36.pdf)
+- **Pre Security** - (https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TSRMIEDWBF.pdf)
 - More on (https://tryhackme.com/p/aneezat13)
-  
+
 ### 📊 Skills Matrix Overview (TryHackMe)
 As of July 2025, my TryHackMe Skills Matrix reflects **Entry-Level competency** in:
 
